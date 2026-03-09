@@ -102,6 +102,12 @@ Comprehensive dashboards for students, parents, teachers, and admins with progre
 
 ---
 
+### 🏢 HR Management System
+A comprehensive system for managing employees, attendance, leaves, and work schedules with role-based access control, multi-language support, and detailed PDF/Excel reporting.  
+**Tech:** Laravel 12, MySQL, TailwindCSS, Bootstrap 5, Spatie Permissions, Vite , MySQL, Bootstrap, AJAX, jQuery, HTML, CSS
+
+---
+
 ### 📰 Blog System
 Posts and categories management system.  
 **Tech:** PHP, Laravel, MySQL, HTML, CSS, Bootstrap, JavaScript
